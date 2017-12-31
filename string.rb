@@ -43,3 +43,4 @@ puts "%.10f this is a float number" %a
 a = "String"
 puts "%20s this is a string" %a
 
+
